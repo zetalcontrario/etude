@@ -1,0 +1,14 @@
+# Credenziali locali — non committare mai
+config.h
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Arduino build artifacts
+build/
+*.elf
+*.hex
+*.bin
