@@ -1,6 +1,6 @@
 # étude. un'indagine sull'integrazione di sistemi interattivi per il cerchio aereo
 
-**étude.** è un progetto di ricerca e Interaction Design che esplora la relazione tra corpo, movimento e dato digitale attraverso la pratica del circo contemporaneo. Il progetto trasforma il cerchio aereo in un'interfaccia attiva capace di mappare il tocco della performer e tradurlo in segnali digitali in tempo reale per la generazione di contenuti visuali e sonori.
+**étude.** è un progetto di ricerca che esplora la relazione tra corpo, movimento e dato digitale attraverso la pratica del circo contemporaneo. Il progetto trasforma il cerchio aereo in un'interfaccia attiva capace di mappare il tocco della performer e tradurlo in segnali digitali in tempo reale per la generazione di contenuti visuali e sonori.
 
 ## Panoramica del Progetto
 La ricerca si basa su un approccio autoetnografico e sulla pratica artistica personale. L'obiettivo è indagare come l'integrazione di sistemi interattivi possa espandere le possibilità drammaturgiche, trasformando l'apparato aereo in un partner reattivo che smette di essere un oggetto statico per diventare parte integrante del processo creativo.
